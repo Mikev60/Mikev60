@@ -16,7 +16,7 @@ A titre perso, je connais déjà le php de mes précédentes expériences.
  <img src="https://github.com/Mikev60/Mikev60/blob/master/Capture2.PNG" align="center" />
 
 
-<br />Pour l'instant, sont dispos sur Github les projets suivants : 
+<br />Pour l'instant, sont dispos sur Github les projets OpenClassrooms suivants : 
 
 - Projet n°1 : Mettre en place une <a href="https://twitter.com/Mickael47789179">veille informationnelle</a>
 - Projet n°2 : <a href="https://mikev60.github.io/OC_Projet_2_CV/">Intégrer la maquette d'un CV en ligne </a> - Avec une petite <a href="https://mikev60.github.io/CV_Perso/">variante perso</a>
@@ -25,6 +25,10 @@ A titre perso, je connais déjà le php de mes précédentes expériences.
 - Projet n°5 (Non commencé) : Création d'un site web e-commerce
 - Projet n°6 (Non commencé) : Construction d'une API sécurisée pour une application d'avis gastronomiques
 - Projet n°7 (Non commencé) : Création d'un réseau social d'entreprise
+
+Egalement, j'effectue d'autres projets, soit sur d'autres cours, soit à titre perso : 
+
+- Tindog : Projet du Bootcamp web developer sur Udemy : 
 
 <br />La fin de ma formation est prévue courant Septembre/début Octobre. Vous pouvez me contacter via Twitter <a href="https://twitter.com/Mickael47789179">@Mickael47789179</a>, ou alors via <a href="https://www.linkedin.com/in/mickael-vermand-3351ba88/">Linkedin</a>.
 
