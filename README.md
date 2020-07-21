@@ -26,9 +26,9 @@ A titre perso, je connais déjà le php de mes précédentes expériences.
 - Projet n°6 (Non commencé) : Construction d'une API sécurisée pour une application d'avis gastronomiques
 - Projet n°7 (Non commencé) : Création d'un réseau social d'entreprise
 
-Egalement, j'effectue d'autres projets, soit sur d'autres cours, soit à titre perso : 
+<br />Egalement, j'effectue d'autres projets, soit sur d'autres cours, soit à titre perso : 
 
-- Tindog : Projet du Bootcamp web developer sur Udemy : 
+- Tindog : Projet du Bootcamp web developer sur Udemy : <a href="https://mikev60.github.io/Tindog/"> Tindog </a>
 
 <br />La fin de ma formation est prévue courant Septembre/début Octobre. Vous pouvez me contacter via Twitter <a href="https://twitter.com/Mickael47789179">@Mickael47789179</a>, ou alors via <a href="https://www.linkedin.com/in/mickael-vermand-3351ba88/">Linkedin</a>.
 
