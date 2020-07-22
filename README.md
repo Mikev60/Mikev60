@@ -28,7 +28,8 @@ A titre perso, je connais déjà le php de mes précédentes expériences.
 
 <br />Egalement, j'effectue d'autres projets, soit sur d'autres cours, soit à titre perso : 
 
-- Tindog : Projet du Bootcamp web developer sur Udemy : <a href="https://mikev60.github.io/Tindog/"> Tindog </a>
+- Projet du Bootcamp web developer sur Udemy (apprentissage Bootstrap) : <a href="https://mikev60.github.io/Tindog/"> Tindog </a>
+- Challenge Front-end Mentor n°1 : <a href="https://mikev60.github.io/FEM_four_cards/">Four cards</a>
 
 <br />La fin de ma formation est prévue courant Septembre/début Octobre. Vous pouvez me contacter via Twitter <a href="https://twitter.com/Mickael47789179">@Mickael47789179</a>, ou alors via <a href="https://www.linkedin.com/in/mickael-vermand-3351ba88/">Linkedin</a>.
 
