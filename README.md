@@ -23,8 +23,8 @@ A titre perso, je connais déjà le php de mes précédentes expériences.
 - Projet n°3 : <a href="https://mikev60.github.io/OC_Projet_3_OMF/">Création d'un site web à partir d'un cahier des charges et de maquettes</a>
 - Projet n°4 : <a href="https://mikev60.github.io/OC_Projet_4_SEO/">Optimisation d'un site web (SEO)</a>
 - Projet n°5 : <a href="https://github.com/Mikev60/OC_Projet_5_Ecommerce">Création d'un site web e-commerce</a>
-- Projet n°6 (Non commencé) : Construction d'une API sécurisée pour une application d'avis gastronomiques
-- Projet n°7 (Non commencé) : Création d'un réseau social d'entreprise
+- Projet n°6 : <a href="https://github.com/Mikev60/OC_Projet_6_Pekocko">Construction d'une API sécurisée pour une application d'avis gastronomiques</a>
+- Projet n°7 : <a href="https://github.com/Mikev60/OC_Projet_7_Groupomania">Création d'un réseau social d'entreprise</a>
 
 <br />Egalement, j'effectue d'autres projets, soit sur d'autres cours, soit à titre perso : 
 
